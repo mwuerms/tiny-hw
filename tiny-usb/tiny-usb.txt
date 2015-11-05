@@ -1,0 +1,15 @@
+Stückliste exportiert aus /home/martin/projects/tiny/tiny-hw/tiny-usb/tiny-usb.sch am 19.10.15 20:22
+
+Part    Value       Device      Package      Description    
+C1      1u          C0603       0603MIL      C              
+C2      100n        C0603       0603MIL      C              
+C3      1u          C0603       0603MIL      C              
+IC1     TINY85-20SU TINY25-20SU SOIC8                       
+IC2     SP6201EM5-L SP6201EM5-L SOT23-5                     
+R1      68R         R0603       0603MIL      R              
+R2      68R         R0603       0603MIL      R              
+R3      1k5         R0603       0603MIL      R              
+R4      10k         R0603       0603MIL      R              
+R5      560k        R0603       0603MIL      R              
+R6      330k        R0603       0603MIL      R              
+S1      B3F-1000    10-XXSMD    B3F-10SMD    OMRON SWITCH   
